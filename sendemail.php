@@ -22,7 +22,7 @@ $mail->Host = "	smtp.sendgrid.net";
 $mail->SMTPAuth = true;
 //Provide username and password
 $mail->Username = "apikey";
-$mail->Password = "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";
+$mail->Password = "PASSWORD";
 //If SMTP requires TLS encryption then set it
 $mail->SMTPSecure = "tls";
 //Set TCP port to connect to
